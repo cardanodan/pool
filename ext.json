@@ -4,6 +4,10 @@
     "witness": "ed25519_sig19cyxzqpex7q9cqhsmcsf3laqmk9hssp4hr7aw37hym3q5vk0zdjj24zm8xkhg0n8k5c7tw02chsva4q4ttqhtztv2430hlm4ewd8wzq7nht5w"
   },
   "info": {
-    "url_png_icon_64x64": "https://raw.githubusercontent.com/cardanodan/pool/meta/dan_logo_64.png"
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/cardanodan/pool/meta/dan_logo_64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/cardanodan/pool/meta/dan_logo.png",
+     "social": {
+       "twitter_handle": "CardanoDan"
+     }
    }
 }
